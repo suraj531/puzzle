@@ -1,0 +1,12 @@
+a {
+  background-size: contain;
+  cursor: pointer;
+}
+
+#s5 p {
+  float: left;
+}
+
+.white {
+  color: white;
+}
